@@ -1,11 +1,11 @@
 # 3D-game
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MIPT team
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Our team name is MIPT team
 =================================================================================================================================
 
-Game Developer
+Game Developers
 --------------
 
-Our team from DGAP MIPT is developing a 3D first-person shooter game.
+Our team from DGAP MIPT is developing a 3D first-person shooter game. When developing the game in python, we were inspired by legendary games such as DOOM and Wolfenstein 3D
 
 * 🌍  I'm based in Dolgoprudniy
 
